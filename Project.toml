@@ -1,0 +1,13 @@
+name = "HdivBiotElasticityPaper"
+uuid = "10ac652b-182d-4a3d-945b-97c1ecf8dd25"
+authors = ["Santiago Badia <santiago.badia@monash.edu>", "Martin Hornkjol <marhorn@math.uio.no>", "Arbaz Khan <arbaz@ma.iitr.ac.in>", "Kent-Andre Mardal <kent-and@simula.no>", "Alberto F. Martin <alberto.f.martin@anu.edu.au>", "Ricardo Ruiz-Baier <ricardo.ruizbaier@monash.edu>"]
+version = "1.0.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
