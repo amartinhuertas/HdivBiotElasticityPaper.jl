@@ -3,6 +3,14 @@ uuid = "10ac652b-182d-4a3d-945b-97c1ecf8dd25"
 authors = ["Santiago Badia <santiago.badia@monash.edu>", "Martin Hornkjol <marhorn@math.uio.no>", "Arbaz Khan <arbaz@ma.iitr.ac.in>", "Kent-Andre Mardal <kent-and@simula.no>", "Alberto F. Martin <alberto.f.martin@anu.edu.au>", "Ricardo Ruiz-Baier <ricardo.ruizbaier@monash.edu>"]
 version = "1.0.0"
 
+[deps]
+Gridap = "56d4f2e9-7ea1-5844-9cf6-b9c51ca7ce8e"
+GridapGmsh = "3025c34a-b394-11e9-2a55-3fee550c04c8"
+Krylov = "ba0b0d4f-ebba-5204-a429-3ac8c609bfb7"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
 [compat]
 julia = "1.8"
 
