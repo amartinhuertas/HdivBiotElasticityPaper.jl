@@ -1,6 +1,11 @@
 using HdivBiotElasticityPaper
 using Test
 
-@testset "HdivBiotElasticityPaper.jl" begin
-    # Write your tests here.
+@testset "ConvergenceTests.jl" begin
+    include("ConvergenceTests.jl")
 end
+
+@testset "TransientHdivBiotElasticityTests.jl" begin
+    include("TransientHdivBiotElasticityTests.jl")
+end
+
