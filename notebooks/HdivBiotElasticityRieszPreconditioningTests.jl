@@ -46,7 +46,7 @@ using Plots
 using LaTeXStrings
 
 # ╔═╡ 106ded38-479d-4961-a127-24c2b416aa9d
-md"""# HdivBiotElasticityRieszPrecondioningTests
+md"""## HdivBiotElasticityRieszPreconditioningTests
 """
 
 # ╔═╡ 4eab9f96-8245-4d35-806f-21e34f75ae79
@@ -94,8 +94,8 @@ fe: $(@bind feval Select(params_possible_values[:fe]))
 c0: $(@bind c0val Select(params_possible_values[:c_0]))
 κ:   $(@bind κval Select(params_possible_values[:κ]))
 α:   $(@bind αval Select(params_possible_values[:α])) 
-solver: $(@bind solverval Select(params_possible_values[:solver]))
-scale: $(@bind scaleval Select(params_possible_values[:scale]))
+solver: $(@bind solverval Select(params_possible_values[:solver];default=:pminres))
+scale: $(@bind scaleval Select(params_possible_values[:scale];default=true))
 
 Customize visualization
 
@@ -385,7 +385,7 @@ end
 # ╠═4d27e8ec-c25e-4643-bc91-e7124ef92ccb
 # ╠═472fddbf-591d-4275-ab2c-1bffc9f029fc
 # ╠═1ce8eaab-112a-417b-9a0e-2bd0be97d2c1
-# ╟─887ba2ff-c5b2-4fe3-ad20-03df4c9836b3
+# ╠═887ba2ff-c5b2-4fe3-ad20-03df4c9836b3
 # ╠═93686b31-35a2-41ff-874d-f4f76c212509
 # ╠═c1f5b97d-e391-45de-bf48-ffe7cb9e53a9
 # ╠═eabba61d-cc2b-41cb-8e69-6b7f24591c26
