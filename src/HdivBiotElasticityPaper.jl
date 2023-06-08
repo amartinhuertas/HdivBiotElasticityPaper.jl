@@ -22,6 +22,7 @@ module HdivBiotElasticityPaper
   export solve_stationary_hdiv_biot_elasticity
   export solve_transient_hdiv_biot_elasticity
   export generate_model_unit_square_biot_elasticity
+  export generate_vessel_interstitium_model_block
   export scale_parameters
   export set_boundary_vertices_entity_to_facets_entity!
 end
