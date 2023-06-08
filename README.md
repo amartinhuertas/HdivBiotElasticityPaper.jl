@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/646662991.svg)](https://zenodo.org/badge/latestdoi/646662991)
+
+
 # HdivBiotElasticityPaper
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://amartinhuertas.github.io/HdivBiotElasticityPaper.jl/stable/)
