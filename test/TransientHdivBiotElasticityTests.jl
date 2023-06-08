@@ -1,4 +1,4 @@
-# Julia script that can be used to reproduce the results reported in Section 7.5 of the paper 
+# Julia script that can be used to reproduce the results reported in Section 7.4 of the paper 
 # "Efficient and reliable divergence-conforming methods for an elasticity-poroelasticity interface problem" 
 # by S.Badia, M. Hornkjöl, A. Khan, K.-A. Mardal, A. F. Martín, and R. Ruiz-Baier
 #
