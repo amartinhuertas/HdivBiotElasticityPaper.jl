@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/646662991.svg)](https://zenodo.org/badge/latestdoi/646662991)
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
 
 
 # HdivBiotElasticityPaper
