@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/646662991.svg)](https://zenodo.org/badge/latestdoi/646662991)
 [![arXiv](https://img.shields.io/badge/arXiv-2306.11213-b31b1b.svg)](https://arxiv.org/abs/2306.11213)
-
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.camwa.2023.12.038-blue)](https://doi.org/10.1016/j.camwa.2023.12.038)
 
 # HdivBiotElasticityPaper
 
